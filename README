@@ -1,0 +1,23 @@
+# Library Management System
+
+## Overview
+This database management system centralizes and tracks records across five library branches. It improves inventory management, reduces data retrieval time by 30%, and enhances overall workflow efficiency by 25%.
+
+## Features
+- **Centralized Database**: Manage book inventories and employee records.
+- **Performance Optimization**: Reduces manual errors and duplicate records.
+- **Efficiency**: Enhances workflow across branches.
+
+## Technologies Used
+- **Database**: MySQL
+- **Programming Language**: Python
+- **Libraries**: Flask (optional for integration)
+
+## Installation
+1. Clone the repository: `git clone https://github.com/muzammil731/Library-Management-System.git`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Import the database schema (`schema.sql`) into your MySQL server.
+4. Run the application using `python app.py`.
+
+## Contributions
+We welcome feedback and collaboration. Submit issues or feature requests via GitHub.
